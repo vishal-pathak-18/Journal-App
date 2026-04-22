@@ -6,9 +6,6 @@ This project integrates **Spring Boot, JWT, Kafka, Redis, and MongoDB** to ensur
 ## 🔥 Tech Stack & Architecture  
 
 - **Spring Boot & JWT**: Built a secure authentication and authorization system with role-based access control.  
-- **Microservices Architecture**: Designed a distributed system using Kafka for event-driven communication and MongoDB for efficient data storage.  
-- **Redis Caching**: Optimized response time and database load by implementing Redis for frequently accessed data.  
-- **Kafka Event Streaming**: Enabled real-time sentiment analysis and automated notifications based on user journal entries.  
 - **Weather API Integration**: Provided users with contextual journaling experiences by incorporating real-time weather data with caching mechanisms.  
 
 ## 🛠 Core Features  
