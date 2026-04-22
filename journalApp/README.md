@@ -1,6 +1,6 @@
 # 📓 Journal App  
 
-I developed a **Journal Application** leveraging modern **microservices architecture** to provide secure, scalable, and real-time journal management.  
+I developed a **Journal Application** to provide secure, scalable, and real-time journal management.  
 This project integrates **Spring Boot, JWT, Kafka, Redis, and MongoDB** to ensure high performance, security, and an enriched user experience.  
 
 ## 🔥 Tech Stack & Architecture  
@@ -18,7 +18,6 @@ This project integrates **Spring Boot, JWT, Kafka, Redis, and MongoDB** to ensur
 
 ## 🎯 Key Takeaways from the Project  
 
-- **Building Scalable Microservices** with event-driven architecture using Kafka.  
 - **Optimizing Performance** using Redis caching for frequent API calls.  
 - **Enhancing Security & Access Control** with JWT-based authentication.  
 - **Automating Sentiment Analysis** to provide real-time insights to users.  
